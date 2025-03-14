@@ -38,3 +38,32 @@ You can download sample CSV files for drinks and food menus to test the app:
 starbucks-menu-nutrition-drinks.csv
 
 starbucks-menu-nutrition-food.csv
+
+## How to Use the Live App
+
+1. **Access the Live App**:
+   - Go to [Nutritional Insights Tool](https://nutrition-tool-46vpq9ug8akd3szufcwuvy.streamlit.app/).
+
+2. **Upload CSV Files**:
+   - Download the sample CSV files from the links above.
+   - Use the sidebar to upload the `starbucks-menu-nutrition-drinks.csv` and `starbucks-menu-nutrition-food.csv` files.
+
+3. **Filter Data**:
+   - Use the sliders to filter datasets by maximum calories and fat content.
+
+4. **Visualize Nutrients**:
+   - Select a nutrient from the dropdown menu to generate a bar chart of the top 10 items.
+
+5. **Calculate Statistics**:
+   - Click the "Calculate Statistics" button to view total calories, average fat, carbs, fiber, protein, and sodium for drinks and food.
+
+6. **Compare Datasets**:
+   - Click the "Compare Datasets" button to compare key metrics between drinks and food.
+
+7. **Generate Insights**:
+   - Click the "Summarize Nutritional Insights" button to get a summary and healthy menu suggestions from the Groq LLM API.
+
+8. **Ask Questions**:
+   - Enter a question in the text box and click "Submit Question" to get an answer from the Groq LLM API.
+
+---
