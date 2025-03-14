@@ -32,3 +32,9 @@ You can access the live app here: [Nutritional Insights Tool](https://nutrition-
 - Groq Python SDK
 
 ---
+## Sample Data
+You can download sample CSV files for drinks and food menus to test the app:
+
+starbucks-menu-nutrition-drinks.csv
+
+starbucks-menu-nutrition-food.csv
