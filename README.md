@@ -54,16 +54,7 @@ starbucks-menu-nutrition-food.csv
 4. **Visualize Nutrients**:
    - Select a nutrient from the dropdown menu to generate a bar chart of the top 10 items.
 
-5. **Calculate Statistics**:
-   - Click the "Calculate Statistics" button to view total calories, average fat, carbs, fiber, protein, and sodium for drinks and food.
-
-6. **Compare Datasets**:
-   - Click the "Compare Datasets" button to compare key metrics between drinks and food.
-
-7. **Generate Insights**:
-   - Click the "Summarize Nutritional Insights" button to get a summary and healthy menu suggestions from the Groq LLM API.
-
-8. **Ask Questions**:
+5. **Ask Questions**:
    - Enter a question in the text box and click "Submit Question" to get an answer from the Groq LLM API.
 
 ---
