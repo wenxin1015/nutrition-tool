@@ -4,6 +4,12 @@ A Streamlit app for analyzing nutritional data from drinks and food datasets. Th
 
 ---
 
+## Live App
+
+You can access the live app here: [Nutritional Insights Tool](https://nutrition-tool-46vpq9ug8akd3szufcwuvy.streamlit.app/)
+
+---
+
 ## Features
 
 - **Upload CSV Files**: Upload drinks and food datasets in CSV format.
